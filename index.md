@@ -1,5 +1,4 @@
 ---
-title: Welcome to my blog
+title: Vivek's Blog
 ---
 
-This is a test
